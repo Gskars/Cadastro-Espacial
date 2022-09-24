@@ -8,7 +8,7 @@ HOSPEDAGEM DO SITE : https://melodic-gaufre-b5363e.netlify.app/
 - CSS
 - GIT E GIHUB
 # Contatos:
-- Email: gscardazi@gmail.com
+- Email: gscardazi@hotmail.com
 - Linkedin: https://www.linkedin.com/in/guilherme-scardazi-67875a1b8/
 
 
